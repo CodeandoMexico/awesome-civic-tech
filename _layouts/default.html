@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/assets/images/logo.png">
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+  
+    <title>Awesome Civic Tech</title>
+  </head>
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/{{site.logo}}" height="50"> &nbsp;<strong>Awesome Civic Tech</strong></a>
+    <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarsDefault">
+      <ul class="navbar-nav ml-auto align-items-center">
+        {% include menu-header.html %}
+      </ul>
+    </div>
+    </nav>
+
+    {{ content }}
+
+    <!-- Footer -->
+    <footer class="footer pt-5 pb-5 text-center">
+      <div class="container">
+        <p>
+        Hecho con <i class="fa fa-heart text-indigo"></i> por la <span class="credits"><a target="_blank" href="http://slack.codeandomexico.org/">Comunidad de Codeando México</a></span>.
+        </p>
+        <p class="m-0 text-center text-dark">&copy; 2020 Awesome Civic Tech – Codeando México</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>anchors.add('h3, h4, h5, h6');</script>
+  </body>
+</html>

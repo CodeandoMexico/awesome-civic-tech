@@ -1,0 +1,48 @@
+title: Awesome Civic Tech
+description: Una lista colaborativa y curada de proyectos de tecnología cívica en México.
+logo: assets/images/logo.png
+
+include: ["_pages"]
+permalink: /:title/
+future: true
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [
+  README.md,
+  package.json,
+  grunt.js,
+  Gruntfile.js,
+  Gruntfile.coffee,
+  node_modules
+]

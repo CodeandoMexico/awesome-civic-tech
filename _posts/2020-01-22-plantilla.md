@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## Nombre del proyecto
 
 ### Descripción
