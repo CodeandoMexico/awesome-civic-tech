@@ -32,20 +32,22 @@ Si necesita ayuda, escribe directamente a <rodo@codeandomexico.org> o en nuestro
 
 ### Añade un evento
 
-1. Clona el repositorio:
+1. Crea un fork del repositorio a tu cuenta de GitHub.
+
+2. Clona tu fork del repo:
    ```bash
-   git clone https://github.com/CodeandoMexico/eventos-globales.git
+   git clone https://github.com/<TU-USUARIO>/eventos-globales.git
    cd awesome-civic-tech/
    ```
 
-2. Crea una rama con el nombre de la tecnología cívica que deseas agregar, en este ejemplo supongamos que agregaré la [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md) del sitio:
+3. Crea una rama con el nombre de la tecnología cívica que deseas agregar, en este ejemplo supongamos que agregaré la [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md) del sitio:
    ```bash
    git checkout -b plantilla  # esto creará una nueva rama de nombre 'plantilla' y se moverá a ella
    ```
 
-3. Crea el archivo que contenga la información del evento. El archivo deberá ser guardado en la carpeta [`_posts`](https://github.com/CodeandoMexico/awesome-civic-tech/tree/master/_posts) con el formato `AAAA-MM-DD-tecnología.md`, donde `AAAA`, `MM` y `DD` corresponden al año, mes y día en que se agrega la tecnología al directorio, respectivamente. Puedes tomar como referencia justamente el archivo [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md).
+4. Crea el archivo que contenga la información del evento. El archivo deberá ser guardado en la carpeta [`_posts`](https://github.com/CodeandoMexico/awesome-civic-tech/tree/master/_posts) con el formato `AAAA-MM-DD-tecnología.md`, donde `AAAA`, `MM` y `DD` corresponden al año, mes y día en que se agrega la tecnología al directorio, respectivamente. Puedes tomar como referencia justamente el archivo [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md).
 
-4. Crea un Pull Request (PR) de la rama que has creado a la rama `master` y solicita una revisión a **@RodolfoFerro**.
+5. Crea un Pull Request (PR) de la rama que has creado a la rama `master` del repositorio original y solicita una revisión a **@RodolfoFerro**.
 
 **NOTA:** Por favor realiza un PR por tecnología.
 
