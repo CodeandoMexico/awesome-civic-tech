@@ -34,7 +34,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 20
+paginate: 100
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

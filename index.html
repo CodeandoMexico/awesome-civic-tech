@@ -23,7 +23,7 @@ permalink: /
 
   <div class="container-fluid">
     <div class="card-columns">        
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
             {% include card-post.html %}
         {% endfor %}            
     </div>

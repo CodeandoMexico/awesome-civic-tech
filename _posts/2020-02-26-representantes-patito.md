@@ -8,7 +8,7 @@ layout: post
 
 ¿Quién me representa? Portal de representantes por zonas.
 
-- **Fecha:** -
+- **Fecha:** N/A
 - **Lugar:** CDMX
 - **Sitio web:** [http://representantes.pati.to/](http://representantes.pati.to/)
 
