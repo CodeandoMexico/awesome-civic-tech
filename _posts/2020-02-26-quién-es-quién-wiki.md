@@ -2,23 +2,24 @@
 layout: post
 ---
 
-# Belisar.io
+# Quién es quién Wiki
 
 #### Descripción
 
-Un bot de proximidad legislativa que busca fomentar la comunicación entre gobierno y ciudadanos a través de la inteligencia artificial.
+Explora conexiones y contratos entre empresarios, políticos, empresas e instituciones públicas. Esta herramienta facilita el acceso de investigadores, periodistas y ciudadanos a varias fuentes de datos abiertos para sumar a la transparencia y rendición de cuentas.
 
-- **Fecha:** 2017
+- **Fecha:** N/A
 - **Lugar:** México
-- **Sitio web:** [http://belisar.io/](http://belisar.io/)
+- **Sitio web:** [https://www.quienesquien.wiki/](https://www.quienesquien.wiki/)
 
 #### Categorías
 
-* Bots
-* Assistive Tech
+* Watchdogging and transparency
+* Open data platforms
+* Data visualization tools and platforms
 
 #### Contacto
 
 Responsables del proyecto:
 
-- Invernaideas y Artificial Nerds ([https://nerds.ai/](https://nerds.ai/))
+- PODER ([https://www.projectpoder.org/es/](https://www.projectpoder.org/es/))
