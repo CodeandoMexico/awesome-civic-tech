@@ -19,7 +19,7 @@
 
 ## Acerca del proyecto
 
-Este es un proyecto de la comunidad que busca cetralizar todas las tecnologíac cívicas que existen en nuestro país. El sitio puedes verlo en el [siguiente enlace](https://codeandomexico.github.io//awesome-civic-tech/).
+Este es un proyecto de la comunidad que busca centralizar todas las tecnologías cívicas que existen en nuestro país. El sitio puedes verlo en el [siguiente enlace](https://codeandomexico.github.io//awesome-civic-tech/).
 
 Si te interesa contribuir al proyecto, echa un vistazo a la siguiente sección.
 
