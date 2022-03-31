@@ -47,7 +47,7 @@ Si necesita ayuda, escribe directamente a <equipo@codeandomexico.org> o en nuest
 
 4. Crea el archivo que contenga la información del evento. El archivo deberá ser guardado en la carpeta [`_posts`](https://github.com/CodeandoMexico/awesome-civic-tech/tree/master/_posts) con el formato `AAAA-MM-DD-tecnología.md`, donde `AAAA`, `MM` y `DD` corresponden al año, mes y día en que se agrega la tecnología al directorio, respectivamente. Puedes tomar como referencia justamente el archivo [plantilla](https://github.com/CodeandoMexico/awesome-civic-tech/blob/master/_posts/2020-01-22-plantilla.md).
 
-5. Crea un Pull Request (PR) de la rama que has creado a la rama `master` del repositorio original y solicita una revisión a **@RodolfoFerro**.
+5. Crea un Pull Request (PR) de la rama que has creado a la rama `master` del repositorio original y solicita una revisión a **@ricardomiron**.
 
 **NOTA:** Por favor realiza un PR por tecnología.
 
@@ -55,7 +55,7 @@ Si necesita ayuda, escribe directamente a <equipo@codeandomexico.org> o en nuest
 
 ### Modifica el sitio
 
-Por favor abre un issue donde menciones los cambios que te gustaría agregar y menciona a **@RodolfoFerro**. En dado caso, se te asignaría el issue y esperaremos tu PR donde te pediremos solicites una revisión a **@RodolfoFerro** para revisar y aceptar tus cambios al sitio.
+Por favor abre un issue donde menciones los cambios que te gustaría agregar y menciona a **@ricardomiron**. En dado caso, se te asignaría el issue y esperaremos tu PR donde te pediremos solicites una revisión a **@ricardomiron** para revisar y aceptar tus cambios al sitio.
 
 Si deseas correr el sitio de manera local, ejecuta los siguientes pasos:
 
