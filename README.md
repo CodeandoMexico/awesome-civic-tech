@@ -28,7 +28,7 @@ Si te interesa contribuir al proyecto, echa un vistazo a la siguiente sección.
 
 ¡Cualquier sugerencia o contribución a este repositorio es bien recibida!
 
-Si necesita ayuda, escribe directamente a <rodo@codeandomexico.org> o en nuestro [Slack](http://slack.codeandomexico.org/).
+Si necesita ayuda, escribe directamente a <equipo@codeandomexico.org> o en nuestro [Slack](http://slack.codeandomexico.org/).
 
 ### Añade un evento
 
