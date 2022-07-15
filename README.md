@@ -5,7 +5,7 @@
 </p>
 
 
-# Eventos globales
+# Awesome Civic Tech
 
 **tl;dr:** Plataforma que alberga una lista curada de tecnología cívica en México.
 
